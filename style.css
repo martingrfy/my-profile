@@ -1,0 +1,57 @@
+body {
+	background-color: #BBBBBB;
+	color: black;
+font-family: font-family: 'Lora', serif;
+font-weight: lighter;
+
+
+}
+
+h1 {
+color: 
+font-family: helvetica;
+font-weight: 900;
+letter-spacing: 10px;
+font-size: 50px;
+}
+h2 {
+	 font-weight: 300;
+	 font-size: 30px;  
+}
+h1, h2{
+	font-family: font-family: 'Roboto', sans-serif;
+	color: #5F6769
+}
+
+a {
+	text-decoration: none;
+	color: #E25822
+	font-weight: bold;
+	font-family: font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+}
+a:hover{
+	color: brown
+}
+
+@media (max-width: 500px) 
+
+
+.image-circle {
+	border-radius: 50px
+}
+
+.btn-blue {
+	background-color:  #5F6769
+	color: black
+	padding: 15px 20px; 
+}
+
+.list-horizontal {
+	list-style: none;
+	padding-left: 0px;
+}
+
+#introductio p {
+	margin-bottom: 40px
+}
